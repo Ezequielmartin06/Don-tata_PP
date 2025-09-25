@@ -40,6 +40,7 @@ a{
         color: rgb(32, 32, 32);
         margin-right: 15px;
         align-items: center;
+        font-size: 1.2em;
     }
     .navbar a:hover{
         color: rgb(32, 32, 32);
@@ -64,6 +65,7 @@ a{
 .btn-car{
     color: #49774E;
     border: #49774E solid 1px;
+    margin-right: 80px;
 }
 .btn-outline-secondary{
     color: #49774E;
@@ -252,4 +254,5 @@ footer{
     }
     .offcanvas-body img{
         object-fit: cover;
+
     }
